@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hello there, I'm Roaa</h1>
+<h1 align="center">Hello, I'm Roaa</h1>
 
 ###
 
